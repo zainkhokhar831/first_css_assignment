@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(122, 228, 128);
+}
+
+
+#title {
+  text-align: center;
+  text-shadow: 2px 2px 10px rgb(255, 255, 255);
+}
+#image {
+  width: 54%;
+  height: 40%;
+  border: 1px none;
+}
+#img {
+  margin-left: 31.5%;
+}
+
+.copyright{
+    margin: 0% 32%;
+}
+
+.desc {
+  margin: 0% 32%;
+  padding-bottom: 20px;
+}
+
+.title-APJ {
+  text-align: center;
+  color: aliceblue;
+  text-shadow: 2px 2px 10px rgb(0, 0, 0);
+}
+
+#tribute-data {
+  border-right: 2px inset yellow;
+  border-bottom: 2px inset yellow;
+  background-color: rgb(76, 212, 138);
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0% 32%;
+}
