@@ -10,14 +10,17 @@ body {
 #image {
   width: 54%;
   height: 40%;
-  border: 1px none;
+  
 }
 #img {
   margin-left: 31.5%;
+
+  
 }
 
 .copyright{
     margin: 0% 32%;
+    
 }
 
 .desc {
@@ -29,14 +32,15 @@ body {
   text-align: center;
   color: aliceblue;
   text-shadow: 2px 2px 10px rgb(0, 0, 0);
+  
 }
 
 #tribute-data {
-  border-right: 2px inset yellow;
-  border-bottom: 2px inset yellow;
+  
   background-color: rgb(76, 212, 138);
   padding-top: 10px;
   padding-left: 20px;
   padding-right: 20px;
   margin: 0% 32%;
+  box-shadow: 10px 5px 10px 1px #ebf768d8;
 }
